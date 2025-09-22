@@ -13,9 +13,7 @@ body {
   color: #222;
 }
 
-.toopages{
-  background: FF6600;
-}
+
 
 header {
   background: #black;
@@ -118,6 +116,11 @@ main h2 {
 }
 
 /* Популярна сторінка */
+
+.toopages {
+  background: FF6600;
+}
+
 .info {
   text-align: center;
   padding: 20px;
