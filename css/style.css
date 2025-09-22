@@ -9,12 +9,12 @@
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  background: #ffd9d9;
+  background: black;
   color: #222;
 }
 
 header {
-  background: #4a34eb;
+  background: #black;
   color: white;
   text-align: center;
   padding: 10px;
@@ -41,7 +41,7 @@ nav a {
 }
 
 nav a.active {
-  background: #2b1abf;
+  background: black;
   border-radius: 5px;
 }
 
@@ -100,7 +100,7 @@ main h2 {
 .card a {
   margin-top: auto;   /* кнопка завжди внизу картки */
   padding: 8px 15px;
-  background: #4a34eb;
+  background: gray;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -109,7 +109,7 @@ main h2 {
 }
 
 .card a:hover {
-  background: #2b1abf;
+  background: black;
 }
 
 /* Популярна сторінка */
@@ -131,7 +131,7 @@ main h2 {
 }
 
 .advantages {
-  background: #4a34eb;
+  background: gray;
   color: white;
   padding: 20px;
   text-align: center;
@@ -155,7 +155,7 @@ main h2 {
 
 .last-chance {
   margin: 15px 0;
-  color: #ffebf0;
+  color: white;
   font-weight: 600;
 }
 
@@ -163,7 +163,7 @@ main h2 {
   display: inline-block;
   padding: 10px 20px;
   background: white;
-  color: #4a34eb;
+  color: white;
   text-decoration: none;
   border-radius: 5px;
   font-weight: 600;
@@ -171,13 +171,13 @@ main h2 {
 }
 
 .btn:hover {
-  background: #2b1abf;
+  background: gray;
   color: white;
 }
 
 /* Футер */
 footer {
-  background: #4a34eb;
+  background: black;
   color: white;
   text-align: center;
   padding: 15px;
